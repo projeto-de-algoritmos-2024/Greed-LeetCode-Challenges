@@ -26,9 +26,11 @@ Os exercícios abordados são os seguintes
 
 | Problema |
 | ------------------ |
-| | 
-| | 
-| |
+| [Find Minimum Time to Finish All Jobs](https://youtu.be/R7Hgcg7XgYk)| 
+| [Divide Intervals Into Minimum Number of Groups](https://youtu.be/HVxPGyJZ-FA)| 
+|[Maximum Profit in Job Scheduling](https://youtu.be/EpxbDBqal5M) |
+| [Non-overlapping Intervals](https://youtu.be/37TzTbjA_wk)| 
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
