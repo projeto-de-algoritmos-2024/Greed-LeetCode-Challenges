@@ -35,6 +35,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ### Find Minimum Time to Finish All Jobs
 ![alt text](image.png)
 
+### Divide Intervals Into Minimum Number of Groups
+![alt text](image-1.png)
+
 ## Instalação 
 **Linguagem**: Python
 
