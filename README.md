@@ -16,7 +16,7 @@ Resolução de questões da plataforma LeetCode que contemplam os níveis médio
 Os exercícios abordados são os seguintes
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
-| [1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) | Find Minimum Time to Finish All Jobs |
+| [1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) | Find Minimum Time to Finish All Jobs | Dificil |
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Divide Intervals Into Minimum Number of Groups| Média |
 |  | | |
 
