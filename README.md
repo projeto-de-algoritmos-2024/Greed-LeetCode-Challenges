@@ -18,7 +18,8 @@ Os exercícios abordados são os seguintes
 | ------------------ | ---------------- | ----------- |
 | [1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/) | Find Minimum Time to Finish All Jobs | Dificil |
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) | Divide Intervals Into Minimum Number of Groups| Média |
-|  | | |
+|  [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Maximum Profit in Job Scheduling | Difícil |
+|  [435](https://leetcode.com/problems/non-overlapping-intervals/description/) | Non-overlapping Intervals | Média |
 
 
 ## Vídeo explicando cada questão
@@ -37,6 +38,12 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ### Divide Intervals Into Minimum Number of Groups
 ![alt text](image-1.png)
+
+### Maximum Profit in Job Scheduling
+![alt text](image-2.png)
+
+### Non-overlapping Intervals
+![alt text](image-3.png)
 
 ## Instalação 
 **Linguagem**: Python
